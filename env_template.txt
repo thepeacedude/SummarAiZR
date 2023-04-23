@@ -1,0 +1,7 @@
+VITE_RAPID_API_ARTICLE_KEY=YOUR_VITE_RAPID_API_ARTICLE_KEY
+
+//YOUR_VITE_RAPID_API_ARTICLE_KEY can be obtained for free by visiting //https://rapidapi.com/restyler/api/article-extractor-and-summarizer
+//
+//You will need to create a .env file in Visual Studio or your favorite IDE and then add // the following text: VITE_RAPID_API_ARTICLE_KEY=YOUR_VITE_RAPID_API_ARTICLE_KEY 
+// to your newly //created .env file
+//
