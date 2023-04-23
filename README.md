@@ -1,2 +1,2 @@
 # SummarAiZR
-sumz_logo SummarAiZ Websites With OpenAI GPT-4 SummarAiZR, is an open-source GPT-4 AI article SummarAiZR that transforms lengthy articles into clear and concise summaries
+SummarAiZ Websites With OpenAI GPT-4 SummarAiZR, is an open-source GPT-4 AI article SummarAiZR that transforms lengthy articles into clear and concise summaries.  Thanks to https://gist.github.com/adrianhajdin from JS Mastery for his excellent tutorial.
